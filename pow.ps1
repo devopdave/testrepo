@@ -1,1 +1,4 @@
-Get-Service -Name 'spooler'
+
+
+
+Get-Service -Name 'alg'
